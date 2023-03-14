@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: 'ZeqianL',
   github: 'zeqianli',
   linkedin: 'zeqianli',
+  scholar: 'acPyuK4AAAAJ',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
